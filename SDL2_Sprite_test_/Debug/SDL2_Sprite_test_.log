@@ -1,0 +1,22 @@
+﻿  TextureLoader.cpp
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\textureloader.cpp(13): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  c:\users\ksingh\documents\libraries\sdl2-2.0.3\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\textureloader.cpp(17): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+  c:\users\ksingh\documents\libraries\sdl2-2.0.3\include\sdl_render.h(122): note: see declaration of 'SDL_Renderer'
+  Sprite.cpp
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\sprite.cpp(15): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+  c:\users\ksingh\documents\libraries\sdl2-2.0.3\include\sdl_render.h(122): note: see declaration of 'SDL_Renderer'
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\sprite.cpp(40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\sprite.cpp(41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\sprite.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Physics.cpp
+  Game.cpp
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\game.cpp(39): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\game.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Event.cpp
+  Display.cpp
+  Character.cpp
+  Generating Code...
+c:\users\ksingh\documents\visual studio 2015\projects\sdl2_sprite_test_\sdl2_sprite_test_\event.cpp(65): warning C4715: 'Event::ListenForKeyPress': not all control paths return a value
+  SDL2_Sprite_test_.vcxproj -> C:\Users\ksingh\Documents\Visual Studio 2015\Projects\SDL2_Sprite_test_\Debug\SDL2_Sprite_test_.exe
+  SDL2_Sprite_test_.vcxproj -> C:\Users\ksingh\Documents\Visual Studio 2015\Projects\SDL2_Sprite_test_\Debug\SDL2_Sprite_test_.pdb (Full PDB)
